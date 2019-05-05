@@ -1,2 +1,2 @@
 # AWS
-This is a basic AmazonWebServices project
+This is a basic AmazonWebServices project which is STATIC*
